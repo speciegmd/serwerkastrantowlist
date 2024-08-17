@@ -1,0 +1,18 @@
+{
+    "id": 87665224,
+    "name": "KOCMOC",
+    "author": "CherryTeam",
+    "creators": ["CherryTeam"],
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=2CxE-UWCIG4",
+    "percentToQualify": 34,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "N/A",
+            "link": "https://www.youtube.com/@gdlustre",
+            "percent": 0,
+            "hz": 360
+        }
+    ]
+}
