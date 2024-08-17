@@ -1,12 +1,12 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "id": 106646765,
+    "name": "Centipede",
+    "author": "Zander12",
+    "creators": ["Zander12"],
+    "verifier": "LordVaderCraft",
+    "verification": "https://www.youtube.com/watch?v=eLGr383CmyM",
+    "percentToQualify": "60",
+    "password": "Free_Copy",
     "records": [
         {
             "user": "Sample_Victor_1",
