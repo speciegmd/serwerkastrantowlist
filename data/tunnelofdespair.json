@@ -1,1 +1,18 @@
-
+{
+    "id": 91351939,
+    "name": "Tunnel of Despair",
+    "author": "Exen",
+    "creators": ["ImMaxX1 & Exen"],
+    "verifier": "Zoink",
+    "verification": "https://www.youtube.com/watch?v=LpS4JREhW98",
+    "percentToQualify": 31,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "N/A",
+            "link": "https://www.youtube.com/@gdlustre",
+            "percent": 0,
+            "hz": 360
+        }
+    ]
+}
