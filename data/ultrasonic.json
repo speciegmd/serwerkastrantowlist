@@ -1,0 +1,18 @@
+{
+    "id": 4545425,
+    "name": "Ultrasonic",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha & more"],
+    "verifier": "Golden",
+    "verification": "https://www.youtube.com/watch?v=WKgfb97Psno",
+    "percentToQualify": 44,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "N/A",
+            "link": "https://www.youtube.com/@gdlustre",
+            "percent": 0,
+            "hz": 360
+        }
+    ]
+}
