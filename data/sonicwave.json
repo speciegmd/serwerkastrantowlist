@@ -1,0 +1,18 @@
+{
+    "id": 26681070,
+    "name": "lSunix",
+    "author": "ryamu",
+    "creators": ["Cyclic"],
+    "verifier": "Sunix",
+    "verification": "https://www.youtube.com/watch?v=GpXTwPgweAk",
+    "percentToQualify": 43,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "N/A",
+            "link": "https://www.youtube.com/@gdlustre",
+            "percent": 0,
+            "hz": 360
+        }
+    ]
+}
