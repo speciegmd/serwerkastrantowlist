@@ -16,8 +16,8 @@
         },
         {
             "user": "Diamondgolem",
-            "link": "https://youtu.be/MkMATE49aW8",
-            "percent": 90,
+            "link": "https://www.youtube.com/watch?v=jsKZfQh7JIY&t=145s",
+            "percent": 100,
             "hz": 360
         },
         {
@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=vTNUd8wAHDE",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "[BAD] zMako",
+            "link": "https://www.youtube.com/watch?v=FuMI-AzXiPw",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
