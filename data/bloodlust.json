@@ -8,11 +8,5 @@
     "percentToQualify": 42,
     "password": "Free Copy",
     "records": [
-         {
-            "user": "[BAD] zMako",
-            "link": "https://www.youtube.com/watch?v=ricDOgdtYyo",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
