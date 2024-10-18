@@ -1,14 +1,13 @@
 {
-    "id": 525252,
+    "id": 96591489,
     "name": "WhatsApp Circles",
     "author": "xkyy",
     "creators": ["xkyy"],
     "verifier": "xkyy",
     "verification": "https://www.youtube.com/watch?v=yVwlBJSrP3w&t=1s",
-    "percentToQualify": 55,
-    "password": "Free Copy",
+    "percentToQualify": "55",
+    "password": "525252",
     "records": [
- "records": [
         {
             "user": "SpaceBR",
             "link": "https://www.youtube.com/watch?v=ECb97CCyt7o",
@@ -16,3 +15,4 @@
             "hz": 144
         }
     ]
+} 
