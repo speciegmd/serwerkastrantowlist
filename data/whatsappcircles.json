@@ -8,5 +8,12 @@
     "percentToQualify": 55,
     "password": "Free Copy",
     "records": [
+ "records": [
+        {
+            "user": "SpaceBR",
+            "link": "https://www.youtube.com/watch?v=ECb97CCyt7o",
+            "percent": 62,
+            "hz": 144
+        }
     ]
 }
