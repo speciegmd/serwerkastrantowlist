@@ -8,5 +8,11 @@
     "percentToQualify": 72,
     "password": "712945",
     "records": [
+        {
+            "user": "[BAD] zMako",
+            "link": "https://www.youtube.com/watch?v=gcSSKh1tVXA",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
