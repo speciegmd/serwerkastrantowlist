@@ -8,5 +8,11 @@
     "percentToQualify": 47,
     "password": "000004",
     "records": [
+        {
+            "user": "SkillfulZack",
+            "link": "https://youtu.be/EwwPGUDd8u4?si=FRlipmUgl32cYbMi",
+            "percent": 60,
+            "hz": 240
+        }
     ]
 }
