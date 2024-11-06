@@ -8,5 +8,11 @@
     "percentToQualify": 62,
     "password": "Free Copy",
     "records": [
+        {
+            "user": "DomisorusRex",
+            "link": "https://www.youtube.com/watch?v=LtgHadtVvks&t=",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
