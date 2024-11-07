@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=MSWs6XVsnUY",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "[ADL] Lustre",
+            "link": "https://youtu.be/DRmN0xOIGv4",
+            "percent": 100,
+            "hz": 360
         }
     ]
 } 
