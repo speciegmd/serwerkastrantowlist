@@ -100,13 +100,13 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (CBF and Physics/FPS Bypass are allowed) Must be 360 FPS or below to qualify
+                        Achieved the record without using hacks (CBF and Physics/FPS Bypass are allowed) Must be 480 FPS or below to qualify
                     </p>
                     <p>
                         Achieved the record on a level that is listed on the site - If the level is not on the site, you can request for it to be added in the Discord server
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Have either source audio or clicks/taps in the raw footage. Edited audio only does not count
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt.
@@ -118,7 +118,7 @@ export default {
                         Do not use secret ways or bugged routes
                     </p>
                     <p>
-                        Do not nerf or change the level in any way, startpos is the only acceptable edit
+                        Do not nerf or edit the level in any way
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
