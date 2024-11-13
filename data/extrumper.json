@@ -4,21 +4,9 @@
     "author": "SpaceBR",
     "creators": ["SpaceBR"],
     "verifier": "[BKSS] SpaceBR",
-    "verification": "https://www.youtube.com/watch?v=aoangZV_P2A",
+    "verification": "https://youtu.be/HShhwS3Dq0k",
     "percentToQualify": 72,
     "password": "Free Copy",
     "records": [
-        {
-            "user": "[ADL] Lustre",
-            "link": "https://www.youtube.com/watch?v=7mfin7F39kw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "[GOD] AnomalyGMD",
-            "link": "https://www.youtube.com/watch?v=8l2ORDsEOlg",
-            "percent": 100,
-            "hz": 480
-        }
     ]
 }
