@@ -5,14 +5,8 @@
     "creators": ["KrmaL"],
     "verifier": "KrmaL",
     "verification": "https://www.youtube.com/watch?v=gHHqPIvZXeM",
-    "percentToQualify": 47,
+    "percentToQualify": 100,
     "password": "000004",
     "records": [
-        {
-            "user": "SkillfulZack",
-            "link": "https://youtu.be/XkQ-o5VmTdI?si=aqmv6Lv-XTOz-B8t",
-            "percent": 68,
-            "hz": 240
-        }
     ]
 }
