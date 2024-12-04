@@ -11,11 +11,6 @@
     },
     {
         "role": "helper",
-        "name": "GDNoobed",
-        "link": "https://www.youtube.com/@Noobed_"
-    },
-    {
-        "role": "helper",
         "name": "AnomolyGMD",
         "link": "https://www.youtube.com/@AnomalyGMD"
     },
@@ -28,15 +23,5 @@
         "role": "helper",
         "name": "Suppenrico",
         "link": "https://www.youtube.com/channel/UCZxs7GEI5cfb0hslhnKvtlA"
-    },
-    {
-        "role": "helper",
-        "name": "Hash",
-        "link": "https://www.youtube.com/channel/UCZxs7GEI5cfb0hslhnKvtlA"
-    },
-    {
-        "role": "helper",
-        "name": "Mako",
-        "link": "https://www.youtube.com/@rando598"
     }
 ]
