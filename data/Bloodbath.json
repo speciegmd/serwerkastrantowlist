@@ -8,15 +8,16 @@
     "percentToQualify": "100",
     "password": "46290",
     "records": [
+        },
         {
-        },   
             "user": "Hummus",
-            "link": "https://www.youtube.com/watch?v=6pmgyIzSqRE",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 100,
             "hz": 240
+        },
         {
             "user": "Szxmus",
-            "link": "https://www.youtube.com/watch?v=EtIatOqAMZo",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 100,
             "hz": 480
         }
