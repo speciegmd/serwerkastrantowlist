@@ -1,18 +1,18 @@
 {
     "id": 10565740,
-    "name": "Bloodbath",
-    "author": "Riot",
-    "creators": ["Riot & More"],
-    "verifier": "Specie",
-    "verification": "https://www.youtube.com/watch?v=ODkM8buXrFI",
+    "name": "Damage",
+    "author": "N1mda",
+    "creators": ["N1mda"],
+    "verifier": "PikminQ",
+    "verification": "https://www.youtube.com/watch?v=oMGruV1uN68",
     "percentToQualify": "100",
     "password": "46290",
     "records": [
         {
-            "user": "Hummus",
-            "link": "https://www.youtube.com/watch?v=6pmgyIzSqRE",
+            "user": "Specie",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 100,
-            "hz": 240
+            "hz": "CBF"
         },
         {
             "user": "Szxmus",
