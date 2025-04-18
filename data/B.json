@@ -1,0 +1,30 @@
+{
+    "id": 34085027,
+    "name": "B",
+    "author": "motleyorc",
+    "creators": ["motleyorc & ScorchVx"],
+    "verifier": "Cempozaba",
+    "verification": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Specie",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Szxmus",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 480
+        },
+        {
+            "user": "PikminQ",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
