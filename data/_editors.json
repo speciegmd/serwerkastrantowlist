@@ -1,13 +1,13 @@
 [
     {
-        "role": "editor",
-        "name": "Specie",
-        "link": "https://www.youtube.com/@SpecieGMD"
-    },
-    {
         "role": "owner",
         "name": "PikminQ",
         "link": "https://www.youtube.com/@pikmiqgd"
+    },
+    {
+        "role": "owner",
+        "name": "Specie",
+        "link": "https://www.youtube.com/@SpecieGMD"
     },
     {
         "role": "",
