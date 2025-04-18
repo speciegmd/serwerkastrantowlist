@@ -1,9 +1,9 @@
 {
-    "id": 34085027,
-    "name": "B",
-    "author": "motleyorc",
-    "creators": ["motleyorc & ScorchVx"],
-    "verifier": "Cempozaba",
+    "id": 13519,
+    "name": "The Nightmare",
+    "author": "Jax",
+    "creators": ["Jax"],
+    "verifier": "KING NAPLET",
     "verification": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
     "percentToQualify": 100,
     "password": "Free Copy",
@@ -25,6 +25,18 @@
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Hummus",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Cempozaba",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
