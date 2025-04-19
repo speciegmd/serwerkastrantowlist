@@ -8,5 +8,10 @@
         "role": "admin",
         "name": "Szxmus",
         "link": "https://www.youtube.com/channel/UCrLn6xo7s1pEF0zZ8nj69aA"
+    },
+    {
+        "role": "dev",
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/@Prometheus_Alt/videos"
     }
 ]
