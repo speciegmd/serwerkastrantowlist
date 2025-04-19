@@ -1,22 +1,16 @@
 {
-    "id": 10565740,
-    "name": "Bloodbath",
-    "author": "Riot",
-    "creators": ["Riot & More"],
+    "id": 68848817,
+    "name": "Moment",
+    "author": "CptHappy",
+    "creators": ["Icedcave & More"],
     "verifier": "Specie",
-    "verification": "https://www.youtube.com/watch?v=ODkM8buXrFI",
+    "verification": "https://www.youtube.com/watch?v=0CBq9FJq3eo",
     "percentToQualify": "100",
     "password": "46290",
     "records": [
         {
-            "user": "Hummus",
-            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "Szxmus",
-            "link": "https://www.youtube.com/watch?v=EtIatOqAMZo",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 100,
             "hz": 480
         }
