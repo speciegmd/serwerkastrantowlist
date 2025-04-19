@@ -1,19 +1,13 @@
 {
-    "id": 56210242,
-    "name": "Shiver",
-    "author": "SpKale",
-    "creators": ["SpKale"],
-    "verifier": "Peon",
-    "verification": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+    "id": 4706930,
+    "name": "Supersonic",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha & More"],
+    "verifier": "Hummus",
+    "verification": "https://www.youtube.com/watch?v=Wi8ySUU1JOk",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Hummus",
-            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "Specie",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
@@ -23,14 +17,14 @@
         {
             "user": "Szxmus",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
-            "percent": 100,
-            "hz": 240
+            "percent": 66,
+            "hz": 480
         },
         {
-            "user": "PikminQ",
+            "user": "Cempozaba",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
-            "percent": 100,
-            "hz": 240
+            "percent": 49,
+            "hz": 75
         }
     ]
 }
