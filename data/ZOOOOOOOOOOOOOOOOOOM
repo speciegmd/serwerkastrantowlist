@@ -1,0 +1,18 @@
+{
+    "id": 95228237,
+    "name": "Bloodbath",
+    "author": "awesomeme360",
+    "creators": ["awesomeme360"],
+    "verifier": "Rqd",
+    "verification": "https://youtu.be/Rxb5iRPh_Gw?si=jrqYgrrT7H9zyWB-",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Szxmus",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
