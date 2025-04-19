@@ -3,28 +3,28 @@
     "name": "Supersonic",
     "author": "ZenthicAlpha",
     "creators": ["ZenthicAlpha & More"],
-    "verifier": "Hummus",
-    "verification": "https://www.youtube.com/watch?v=Wi8ySUU1JOk",
-    "percentToQualify": 100,
+    "verifier": "ZenthicAlpha",
+    "verification": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+    "percentToQualify": 57,
     "password": "Free Copy",
     "records": [
         {
             "user": "Specie",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 100,
-            "hz": 60
+            "fps": 60
         },
         {
             "user": "Szxmus",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 66,
-            "hz": 480
+            "fps": 480
         },
         {
             "user": "Cempozaba",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
-            "percent": 49,
-            "hz": 75
+            "percent": 57,
+            "fps": 75
         }
     ]
 }
