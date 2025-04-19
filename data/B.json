@@ -3,17 +3,11 @@
     "name": "B",
     "author": "motleyorc",
     "creators": ["motleyorc & ScorchVx"],
-    "verifier": "ScorchVx (chyba)",
+    "verifier": "Cempozaba",
     "verification": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-        {
-            "user": "Cempozaba",
-            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
-            "percent": 100,
-            "hz": 60
-        },
         {
             "user": "Specie",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
