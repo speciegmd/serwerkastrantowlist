@@ -3,16 +3,22 @@
     "name": "Moment",
     "author": "CptHappy",
     "creators": ["Icedcave & More"],
-    "verifier": "Specie",
-    "verification": "https://www.youtube.com/watch?v=0CBq9FJq3eo",
+    "verifier": "Icedcave",
+    "verification": "https://youtu.be/bLfKsN4NCNY?si=M9bGw5sy2k3kY28N",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Szxmus",
-            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "user": "Specie",
+            "link": "https://youtu.be/0CBq9FJq3eo?si=6mI77Dfc0cIJcKO5",
             "percent": 100,
-            "hz": 480
+            "hz": 60
+        },
+        {
+            "user": "Szxmus",
+            "link": "https://www.tiktok.com/@youngszxmus/video/7488096567866461462?is_from_webapp=1&sender_device=pc&web_id=7440898654812112407",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
