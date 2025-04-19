@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (CBF and Physics/FPS Bypass are allowed) Must be 480 FPS or below to qualify
+                        Achieved the record without using hacks (CBF and FPS Bypass are allowed) Must be 480 FPS or below to qualify
                     </p>
                     <p>
                         Achieved the record on a level that is listed on the site - If the level is not on the site, you can request for it to be added in the Discord server
