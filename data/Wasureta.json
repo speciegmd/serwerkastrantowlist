@@ -5,7 +5,7 @@
     "creators": ["Crazen & More"],
     "verifier": "Crazen",
     "verification": "https://www.youtube.com/watch?v=YH7yHrEQlLU",
-    "percentToQualify": "32",
+    "percentToQualify": "36",
     "password": "46290",
     "records": [
        {
@@ -17,7 +17,7 @@
        {
             "user": "Specie",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
-            "percent": 32,
+            "percent": 36,
             "hz": 60
         }
     ]     
