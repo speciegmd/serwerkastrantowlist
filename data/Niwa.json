@@ -1,24 +1,24 @@
 {
-    "id": 10565740,
-    "name": "Bloodbath",
-    "author": "Riot",
-    "creators": ["Riot & More"],
+    "id": 87425029,
+    "name": "Niwa",
+    "author": "Teno",
+    "creators": ["Teno & More"],
     "verifier": "Specie",
-    "verification": "https://www.youtube.com/watch?v=ODkM8buXrFI",
-    "percentToQualify": "100",
+    "verification": "https://www.youtube.com/watch?v=DPZ3KyA0zig",
+    "percentToQualify": "80",
     "password": "46290",
     "records": [
         {
-            "user": "Hummus",
-            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "Szxmus",
-            "link": "https://www.youtube.com/watch?v=EtIatOqAMZo",
+            "link": "https://www.youtube.com/watch?v=oqg_xPmRKNQ",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "PikminQ",
+            "link": "https://www.youtube.com/watch?v=2NfCyIH_m8k",
+            "percent": 80,
+            "hz": 60
         }
     ]
 }
