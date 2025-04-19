@@ -3,11 +3,29 @@
     "name": "Niwa",
     "author": "Teno",
     "creators": ["Teno & More"],
-    "verifier": "Specie",
-    "verification": "https://www.youtube.com/watch?v=DPZ3KyA0zig",
+    "verifier": "Teno",
+    "verification": "https://www.youtube.com/watch?v=1tven_pFftA&pp=0gcJCdgAo7VqN5tD",
     "percentToQualify": "80",
     "password": "46290",
     "records": [
+        {
+            "user": "Specie",
+            "link": "https://www.youtube.com/watch?v=DPZ3KyA0zig",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Hummus",
+            "link": "https://www.youtube.com/watch?v=oqg_xPmRKNQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kubuss",
+            "link": "https://www.youtube.com/watch?v=oqg_xPmRKNQ",
+            "percent": 100,
+            "hz": 480
+        },
         {
             "user": "Szxmus",
             "link": "https://www.youtube.com/watch?v=oqg_xPmRKNQ",
