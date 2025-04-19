@@ -12,19 +12,19 @@
             "user": "Specie",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 100,
-            "fps": 60
+            "hz": 60
         },
         {
             "user": "Szxmus",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 66,
-            "fps": 480
+            "hz": 165
         },
         {
             "user": "Cempozaba",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 57,
-            "fps": 75
+            "hz": 75
         }
     ]
 }
