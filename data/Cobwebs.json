@@ -1,0 +1,18 @@
+{
+    "id": 68848817,
+    "name": "Moment",
+    "author": "CptHappy",
+    "creators": ["Icedcave & More"],
+    "verifier": "Specie",
+    "verification": "https://www.youtube.com/watch?v=0CBq9FJq3eo",
+    "percentToQualify": "100",
+    "password": "46290",
+    "records": [
+        {
+            "user": "Szxmus",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
