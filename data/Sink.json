@@ -1,18 +1,18 @@
 {
     "id": 64658786,
-    "name": "Wasureta",
-    "author": "HelpegasuS",
-    "creators": ["Crazen & More"],
-    "verifier": "kubuss",
+    "name": "Sink",
+    "author": "Awedsy",
+    "creators": ["Awedsy"],
+    "verifier": "",
     "verification": "https://www.youtube.com/watch?v=D0QOgjaxGrQ",
-    "percentToQualify": "28",
+    "percentToQualify": "38",
     "password": "46290",
     "records": [
        {
-            "user": "Specie",
-            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
-            "percent": 28,
-            "hz": 60
+            "user": "Szxmus",
+            "link": "https://www.youtube.com/watch?v=GuFFyJf44wk",
+            "percent": 38,
+            "hz": 480
         }
     ]     
 }
