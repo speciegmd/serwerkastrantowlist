@@ -3,16 +3,11 @@
     "name": "Aura",
     "author": "Ka1sa",
     "creators": ["Ka1sa & More"],
-    "verifier": "Zeronium",
+    "verifier": "Szxmus",
     "verification": "https://www.youtube.com/watch?v=OMQZIKYU3PA",
     "percentToQualify": "100",
     "password": "46290",
     "records": [
-    {
-            "user": "Szxmus",
-            "link": "https://www.youtube.com/watch?v=OMQZIKYU3PA",
-            "percent": 100,
-            "hz": 480
         }
     ]
 }
