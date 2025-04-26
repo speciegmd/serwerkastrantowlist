@@ -1,0 +1,23 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "Ggb0y",
+    "creators": ["Ggb0y"],
+    "verifier": "Riot",
+    "verification": "https://youtu.be/2Q0CYSDFpKk?si=sNJCXFrJlC3kND5w",
+    "percentToQualify": "71",
+    "password": "666777",
+    "records": [
+        {
+            "user": "Specie",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 60
+        },
+        {  "user": "Mieszkooo",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 71,
+            "hz": 144
+        }
+    ]
+}
