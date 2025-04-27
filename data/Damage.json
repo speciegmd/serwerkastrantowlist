@@ -9,6 +9,12 @@
     "password": "Free Copy",
     "records": [
         {
+            "user": "kubuss",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Pikminq",
             "link": "https://www.youtube.com/watch?v=oMGruV1uN68",
             "percent": 100,
