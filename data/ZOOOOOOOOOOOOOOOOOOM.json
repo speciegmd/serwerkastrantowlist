@@ -9,16 +9,16 @@
     "password": "Free Copy",
     "records": [
         {
-            "user": "Szxmus",
-            "link": "https://youtu.be/XxBL0kj7S3c",
-            "percent": 100,
-            "hz": 480
-        },
-        {
             "user": "kubuss",
             "link": "https://youtu.be/B0j-Li08H00?si=bDs-h9tOLj6o-ehH",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Szxmus",
+            "link": "https://youtu.be/XxBL0kj7S3c",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
