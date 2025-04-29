@@ -5,13 +5,13 @@
     "creators": ["NineDice & More"],
     "verifier": "Cursed",
     "verification": "https://youtu.be/iEznd6B-uig?si=rjfq36x-ItTfwwQU",
-    "percentToQualify": "50",
+    "percentToQualify": "44",
     "password": "Free Copy",
     "records": [
         {
             "user": "kubuss",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
-            "percent": 50,
+            "percent": 67,
             "hz": 240
         }
     ]
