@@ -1,1 +1,18 @@
-
+{
+    "id": 84325817,
+    "name": "TROLLMACHINE",
+    "author": "TROLLM4CHINE",
+    "creators": ["TROLLM4CHINE & More"],
+    "verifier": "＞×＜",
+    "verification": "https://youtu.be/VSw1c3L8szo?si=nFy2AVmN3JNitrDK",
+    "percentToQualify": 62,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Szxmus",
+            "link": "https://youtu.be/2pOm6lXbVoI?si=3nBiHPbDHYW89jme",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
