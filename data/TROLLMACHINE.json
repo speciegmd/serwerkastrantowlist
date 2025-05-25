@@ -5,7 +5,7 @@
     "creators": ["TROLLM4CHINE & More"],
     "verifier": "＞×＜",
     "verification": "https://youtu.be/VSw1c3L8szo?si=nFy2AVmN3JNitrDK",
-    "percentToQualify": 62,
+    "percentToQualify": 45,
     "password": "Free Copy",
     "records": [
         {
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/2pOm6lXbVoI?si=3nBiHPbDHYW89jme",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "Pikmiq",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 45,
+            "hz": 60
         }
     ]
 }
