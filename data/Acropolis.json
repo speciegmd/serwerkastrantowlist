@@ -8,7 +8,13 @@
     "percentToQualify": "100",
     "password": "124574",
     "records": [
-       {
+        {
+            "user": "Specie",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Mieszkooo",
             "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 100,
