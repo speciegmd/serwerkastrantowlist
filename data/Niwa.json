@@ -10,19 +10,19 @@
     "records": [
         {
             "user": "Specie",
-            "link": "https://www.youtube.com/watch?v=DPZ3KyA0zig",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "Hummus",
-            "link": "https://www.youtube.com/watch?v=oqg_xPmRKNQ",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 100,
             "hz": 240
         },
         {
             "user": "kubuss",
-            "link": "https://www.youtube.com/watch?v=oqg_xPmRKNQ",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 100,
             "hz": 240
         },
@@ -33,8 +33,14 @@
             "hz": 480
         },
         {
+            "user": "Mieszkooo",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 144
+        },
+        {
             "user": "PikminQ",
-            "link": "https://www.youtube.com/watch?v=2NfCyIH_m8k",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
             "percent": 80,
             "hz": 60
         }
