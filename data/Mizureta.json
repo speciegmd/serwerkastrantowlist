@@ -1,1 +1,18 @@
-
+{
+    "id": 95764848,
+    "name": "Mizureta",
+    "author": "dutchiee",
+    "creators": ["dutchiee & More"],
+    "verifier": "ThisIsGDNick",
+    "verification": "https://youtu.be/W6yjHbdAnxM?si=vG_c_5MpDPpNdb6G",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Szxmus",
+            "link": "https://youtu.be/ODkM8buXrFI?si=NtqOruv-Q0DCORGf",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
