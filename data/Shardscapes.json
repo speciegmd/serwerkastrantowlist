@@ -1,1 +1,18 @@
-
+{
+    "id": 79997992,
+    "name": "Shardscapes",
+    "author": "ItzKiba",
+    "creators": ["ItzKiba"],
+    "verifier": "Eiruni",
+    "verification": "https://youtu.be/1cW8T58Azh4?si=MSXDmwTAEt97d6Xh",
+    "percentToQualify": "33",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Szxmus",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 33,
+            "hz": 480
+        }
+    ]
+}
