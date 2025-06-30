@@ -1,1 +1,23 @@
-
+{
+    "id": 81148582,
+    "name": "Sweater Weather",
+    "author": "VelYT",
+    "creators": ["VelYT & more"],
+    "verifier": "tundra77",
+    "verification": "https://youtu.be/y3Kk0ZvDqUM?si=JJMWSFhgqgFKgIyJ",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "kubuss",
+            "link": "https://youtu.be/OTR5uIpce58?si=ffaMfMkmCQYztS2l",
+            "percent": 100,
+            "hz": 240
+        },
+        {  "user": "Szxmus",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
