@@ -1,1 +1,23 @@
-
+{
+    "id": 109730342,
+    "name": "the super hotdog",
+    "author": "awesomeme360",
+    "creators": ["awesomeme360"],
+    "verifier": "awesomeme360",
+    "verification": "https://youtu.be/ZCAD86pTv-4?si=aYuxPbI-iofzeDh8",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "kubuss",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 240
+        },
+        {  "user": "Szxmus",
+            "link": "https://www.youtube.com/watch?v=3dgXNDT41Zs",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
